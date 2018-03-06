@@ -1,4 +1,3 @@
-﻿  stdafx.cpp
-  twentyOne.cpp
-  LINK : не найден или не выполнена сборка C:\Users\Михаил\Desktop\Курсач\twentyOne\twentyOne\Debug\twentyOne.exe при последней инкрементной компоновке; выполняется полная компоновка
-  twentyOne.vcxproj -> C:\Users\Михаил\Desktop\Курсач\twentyOne\twentyOne\Debug\twentyOne.exe
+﻿  twentyOne.cpp
+  LINK : не найден или не выполнена сборка E:\Курсач\twentyOne\Debug\twentyOne.exe при последней инкрементной компоновке; выполняется полная компоновка
+  twentyOne.vcxproj -> E:\Курсач\twentyOne\Debug\twentyOne.exe
