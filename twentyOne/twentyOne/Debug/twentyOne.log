@@ -1,3 +1,4 @@
 ﻿  twentyOne.cpp
-e:\курсач\twentyone\twentyone\twentyone.cpp(58): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+e:\курсач\twentyone\twentyone\twentyone.cpp(44): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+e:\курсач\twentyone\twentyone\twentyone.cpp(99): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
   twentyOne.vcxproj -> E:\Курсач\twentyOne\Debug\twentyOne.exe
