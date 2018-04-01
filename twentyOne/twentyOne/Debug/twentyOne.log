@@ -1,9 +1,9 @@
 ﻿  twentyOne.cpp
-e:\курсач\twentyone\twentyone\twentyone.cpp(29): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-e:\курсач\twentyone\twentyone\twentyone.cpp(73): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-e:\курсач\twentyone\twentyone\twentyone.cpp(75): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-e:\курсач\twentyone\twentyone\twentyone.cpp(106): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-e:\курсач\twentyone\twentyone\twentyone.cpp(126): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-e:\курсач\twentyone\twentyone\twentyone.cpp(233): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
-e:\курсач\twentyone\twentyone\twentyone.cpp(228): warning C4715: gameRun: значение возвращается не при всех путях выполнения
+e:\курсач\twentyone\twentyone\twentyone.cpp(31): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+e:\курсач\twentyone\twentyone\twentyone.cpp(88): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+e:\курсач\twentyone\twentyone\twentyone.cpp(90): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+e:\курсач\twentyone\twentyone\twentyone.cpp(118): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+e:\курсач\twentyone\twentyone\twentyone.cpp(140): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+e:\курсач\twentyone\twentyone\twentyone.cpp(248): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+e:\курсач\twentyone\twentyone\twentyone.cpp(243): warning C4715: gameRun: значение возвращается не при всех путях выполнения
   twentyOne.vcxproj -> E:\Курсач\twentyOne\Debug\twentyOne.exe
